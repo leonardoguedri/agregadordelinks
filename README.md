@@ -6,7 +6,7 @@
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src="./projetonovo/assets/projeto.png" width="100%">
+  <img alt="projeto DevLinks" src="./assets/projeto.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
